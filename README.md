@@ -8,3 +8,5 @@ This propensity model helps collection companies find the RPC (Right Party Conta
 
 SKU: COLLR-PS-CCC-AWS-001
 
+AWS SageMaker: https://aws.amazon.com/marketplace/pp/prodview-lgon6l4hpvxxq
+
